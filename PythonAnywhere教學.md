@@ -1,4 +1,4 @@
-## **註冊pythonanywhere**
+## **註冊PythonAnywhere**
 1.	首先到  [PythonAnywhere](https://www.pythonanywhere.com/pricing/) 點擊 Create a Beginner account
 2.	註冊帳號密碼
 ## **建置虛擬環境**
