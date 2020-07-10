@@ -4,7 +4,7 @@
 ## **建置虛擬環境**
 1.	點擊紅色方框內的$Bash開啟終端機
 ![image](https://github.com/Jo-nathanlee/Learning-Django/blob/master/pic/step1.png)
-2.	輸入
+2.	輸入指令
 ```
 mkvirtualenv django2 --python=/usr/bin/python3.6     #django2為環境名稱，可自訂
 pip install django 
@@ -14,7 +14,7 @@ pip install django
 **之後每次執行djanog專案時，請確保開啟虛擬環境(django2)
 **開啟指令為workon django2
 ## **建立django專案**
-1.	輸入(mysite為專案名稱，可自訂)
+1.	輸入指令(mysite為專案名稱，可自訂)
 ```
 django-admin startproject mysite
 ```
