@@ -11,8 +11,8 @@ pip install django
 ```
 3.	成功完成將會看到畫面如下 
 ![image](https://github.com/Jo-nathanlee/Learning-Django/blob/master/pic/step2.png)
-**之後每次執行djanog專案時，請確保開啟虛擬環境(django2)
-**開啟指令為workon django2
+* *之後每次執行djanog專案時，請確保開啟虛擬環境(django2)*
+* *開啟指令為workon django2*
 ## **建立django專案**
 1.	輸入指令(mysite為專案名稱，可自訂)
 ```
