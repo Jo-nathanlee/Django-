@@ -22,6 +22,11 @@ django-admin startproject mysite
 ![image](https://github.com/Jo-nathanlee/Learning-Django/blob/master/pic/step3.png)
 3.	點選Directories下的mysite文件夾即可看到所建專案目錄，右側的Files為該目錄底下的檔案
 ![image](https://github.com/Jo-nathanlee/Learning-Django/blob/master/pic/step4.png)
+## **設定 Allow hosts**
+1.  開啟 **settings.py** 找到 **ALLOWED_HOSTS** ，在中括號內加入
+```
+'*'
+```
 ## **配置Web Server**
 1.	點選右上角Web
 ![image](https://github.com/Jo-nathanlee/Learning-Django/blob/master/pic/step5.png)
